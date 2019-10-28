@@ -1,0 +1,37 @@
+body {
+	background-color: #243C83;
+}
+h1{
+	color:#FFFFFF;
+	text-align: center;
+	font-size:75px;
+	font-family: "Times New Roman", sans-serif;
+	font-variant: small-caps;
+	letter-spacing: 10px;
+}
+table, th, td {
+	height: 40px;
+	width: 200px;
+  border: 3px solid white;
+  font-family:"Times New Roman", sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+  color: white;
+  margin-left:850px;
+}
+h2{
+	color:#FFFFFF;
+	text-align: center;
+	font-size:25px;
+	font-family: "Times New Roman", sans-serif;
+	font-variant: small-caps;
+	letter-spacing: 1px;
+}
+p{
+	text-align:center;
+color:#FFFFFF ;
+font-size: 20px;
+font-family:"Times New Roman", sans serif;
+	font-variant: small-caps;
+	letter-spacing: 1px;
+}
