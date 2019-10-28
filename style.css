@@ -49,6 +49,7 @@ table, th, td {
   text-align: center;
   color: white;
   margin-left: 300px;
+  cursor: crosshair;
 }
 img{
 	height:300px;
